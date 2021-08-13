@@ -5,4 +5,5 @@ done
 
 done with current version
 
-pull these changes
+pull these changes to main branch
+push these changes to main branch
